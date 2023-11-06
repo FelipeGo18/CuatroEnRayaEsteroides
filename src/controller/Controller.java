@@ -12,7 +12,8 @@ import view.*;
  * @author lokci
  */
 public class Controller implements ActionListener {
-
+//hola mundo esto es un prueba
+    
     private Bienvenida bien;
     private Seleccionar select;
     private Jugadores jug;
